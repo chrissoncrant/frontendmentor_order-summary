@@ -4,10 +4,18 @@
     box-sizing: border-box;
 }
 
+html {
+    font-size: 21px;
+    width: 1440px;
+}
+
 body {
     margin: 0;
     line-height: 1.6;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+    max-width: 1300px;
+    margin: auto;
+    
 }
 
 img {

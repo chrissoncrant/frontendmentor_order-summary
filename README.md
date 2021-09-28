@@ -7,3 +7,10 @@ My estimate on how long it will take me: 2 hours. This is estimate is based on h
 I will do my best to keep track of the time I spend on the project. 
 
 Cheers!
+
+Notes:
+9-28-21:
+    @ 1030: Realizing the time estimate above is not taking into account getting used to how front end mentor works and getting a workflow down in regards to the project files. 
+
+    
+
