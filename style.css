@@ -13,7 +13,7 @@ body {
     margin: 0;
     line-height: 1.6;
     font-family: 'Red Hat Display', sans-serif;
-    width: 1440px;
+    max-width: 1440px;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -44,6 +44,11 @@ p {
 
 p {
     color: rgb(136, 135, 135);
+}
+
+a:hover {
+    color: #736fe9;
+    text-decoration: none;
 }
 
 .background-container {
@@ -124,15 +129,27 @@ button {
     border-radius: 12px;
     border: none;
     font-weight: 700;
+    cursor: pointer;
 }
 
 #proceed-btn {
     background-color: hsl(245, 75%, 52%);
     color: white;
     margin-bottom: 12px;
+    transition: all 200ms ease-in-out;
 }
+
+#proceed-btn:hover {
+    background-color: #736fe9;
+}
+
 
 #cancel-btn {
     background-color: white;
     color: rgb(136, 135, 135);
+    transition: all 200ms ease-in-out;
+}
+
+#cancel-btn:hover {
+    color: hsl(223, 47%, 23%);
 }
