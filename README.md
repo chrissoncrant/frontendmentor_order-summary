@@ -1,4 +1,4 @@
-# frontendmentor_order-summary
+# order-summary-FEM
 
 As the title indicates, this is a project from frontendmentor.io
 
