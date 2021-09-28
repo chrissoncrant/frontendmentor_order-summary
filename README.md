@@ -21,7 +21,7 @@ Cheers!
 - how to take a full screenshot of websites using Chrome Dev Tools
 
 ## Link to Completed Site:
-- 
+- https://chrissoncrant.github.io/order-summary-FEM/ 
 
 ## Notes:
 9-28-21:
