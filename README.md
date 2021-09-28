@@ -34,6 +34,7 @@ Cheers!
     @1150: completed the spacing, added box shadows to the body and the main-container as well as border-radius. 
     @1200: made the width of the body more responsive by changing "width" to "max-width"
     @1205: I believe I am now finished with this project. If I had the Figma sheet I'd be able to make it more precise.
+    @1230: completed the write up in this README and uploaded the repo and live site links to FrontEndMentor.io. I actually met my initial goal form time of completion.
 
 
 
